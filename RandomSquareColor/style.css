@@ -1,0 +1,13 @@
+#square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    font-family: Helvetica, sans-serif;    
+    font-size: 18px;
+    
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
