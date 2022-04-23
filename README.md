@@ -18,7 +18,7 @@ There are two way to get these lessons. The recommended way is to use the git co
 
 ### Download Zip
 Navigate to the `Code` button in Github and click on it. You should see the following dropdown:
-![Download Zip](GetLessons.png)
+![Download Zip](./images/GetLessons.png)
 
 Once here, you can download `.zip` file of this project and extract it to the location of your choosing on your computer.
 
