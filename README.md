@@ -7,7 +7,7 @@ Computer Science Lessons aimed at a highschool audience.
 
 ## Downloading These Lessons
 ### Git Clone (Recommended)
-There are two way to get these lessons. The recommended way is to use the git command line tool to clone (aka download) this repository on your computer. To do this, you'll want to start by installed the git command line utility: https://git-scm.com/. It may also be helpful to install an IDE like Visual Studio Code (https://code.visualstudio.com/).
+There are two way to get these lessons. The recommended way is to use the git command line tool to clone (aka download) this repository on your computer. To do this, you'll want to start by installing the git command line utility: https://git-scm.com/. It may also be helpful to install an IDE like Visual Studio Code (https://code.visualstudio.com/).
 
 1. Download and install Visual Studio Code
 2. Download and install the git command line utility. You can use the default installation settings when installing git. Ensure that you restart Visual Studio Code before continuing to the next step.
